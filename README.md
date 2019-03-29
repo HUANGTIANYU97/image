@@ -1,2 +1,2 @@
 # image
-![image]（https://github.com/HUANGTIANYU97/image/holdem.png）
+![image]（https://github.com/HUANGTIANYU97/image/raw/master/holdem.png）
